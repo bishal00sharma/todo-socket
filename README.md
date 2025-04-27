@@ -98,35 +98,6 @@ Frontend will run at `http://localhost:5173`.
 
 ---
 
-## 📸 Screenshots
-
-| Task List (Empty) | Adding Tasks |
-|:---|:---|
-| ![empty](https://dummyimage.com/600x400/cccccc/000000&text=No+Tasks) | ![adding](https://dummyimage.com/600x400/cccccc/000000&text=Adding+Tasks) |
-
-_(You can replace these with your real screenshots later.)_
-
----
-
-## 🛡️ Environment Variables
-
-Backend:
-
-```bash
-MONGODB_URI=your_mongo_connection_string
-PORT=5000
-```
-
-Frontend:
-
-Change the backend URL inside your code if needed:
-
-```javascript
-const socket = io('https://your-backend-link.onrender.com');
-```
-
----
-
 ## 🤝 Contributions
 
 Pull Requests are welcome!  
