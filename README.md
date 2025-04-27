@@ -6,12 +6,6 @@ Deployed with ⚡ **Render (backend)** and **Vercel (frontend)**.
 
 ---
 
-## 🚀 Live Demo
-
-- **Frontend:** [https://your-frontend-link.vercel.app](https://your-frontend-link.vercel.app)
-- **Backend:** [https://your-backend-link.onrender.com](https://your-backend-link.onrender.com)
-
----
 
 ## 🛠 Tech Stack
 
