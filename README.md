@@ -104,9 +104,7 @@ Feel free to open an issue if you want to suggest a feature or report a bug.
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
