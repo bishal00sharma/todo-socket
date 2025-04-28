@@ -2,7 +2,6 @@
 
 A simple, real-time **Todo List** application built with **MERN stack** + **Socket.io**.  
 Users can **add tasks** and **see updates instantly** without refreshing the page!  
-Deployed with ⚡ **Render (backend)** and **Vercel (frontend)**.
 
 ---
 
